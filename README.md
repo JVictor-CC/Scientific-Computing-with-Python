@@ -1,5 +1,5 @@
 # Scientific Computing with Python
-- Content:
+- Contents:
   - [Arithmetic Formatter](#1-first-project-build-a-arithmetic-formatter)
   - [Time Calculator](#2-second-project-build-a-time-calculator)
   - [Budget App](#3-third-project-build-a-budget-app)
