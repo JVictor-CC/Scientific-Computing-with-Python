@@ -6,7 +6,7 @@
   - [Polygon Area Calculator](#4-fourth-project-build-a-polygon-area-calculator)
   - [Probability Calculator](#5-fifth-project-build-a-probability-calculator)
 
-## 1. First Project: Build a [Arithmetic Formatter]()
+## 1. First Project: Build a [Arithmetic Formatter](https://github.com/JVictor-CC/Scientific-Computing-with-Python/blob/37e47dec607cee1d680fe58576b4d3dba97ef2db/Arithmetic%20Formatter/arithmetic_arranger.py)
 
 Project Url: <https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter>
 
@@ -29,7 +29,7 @@ If the user supplied the correct format of problems, the conversion you return w
 * There should be four spaces between each problem.
 * There should be dashes at the bottom of each problem. The dashes should run along the entire length of each problem individually. (The example above shows what this should look like.)
 
-## 2. Second Project: Build a [Time Calculator]()
+## 2. Second Project: Build a [Time Calculator](https://github.com/JVictor-CC/Scientific-Computing-with-Python/blob/37e47dec607cee1d680fe58576b4d3dba97ef2db/Time%20Calculator/time_calculator.py)
 
 Project Url: <https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator>
 
@@ -52,7 +52,7 @@ Below are some examples of different cases the function should handle. Pay close
 
 > add_time("6:30 PM", "205:12") -> Returns: 7:42 AM (9 days later)
 
-## 3. Third Project: Build a [Budget App]()
+## 3. Third Project: Build a [Budget App](https://github.com/JVictor-CC/Scientific-Computing-with-Python/blob/37e47dec607cee1d680fe58576b4d3dba97ef2db/Budget%20App/budget.py)
 
 Project Url: <https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app>
 
@@ -75,7 +75,7 @@ Besides the Category class, create a function (outside of the class) called crea
 
 The chart should show the percentage spent in each category passed in to the function. The percentage spent should be calculated only with withdrawals and not with deposits. Down the left side of the chart should be labels 0 - 100. The "bars" in the bar chart should be made out of the "o" character. The height of each bar should be rounded down to the nearest 10. The horizontal line below the bars should go two spaces past the final bar. Each category name should be written vertically below the bar. There should be a title at the top that says "Percentage spent by category".
 
-## 4. Fourth Project: Build a [Polygon Area Calculator]()
+## 4. Fourth Project: Build a [Polygon Area Calculator](https://github.com/JVictor-CC/Scientific-Computing-with-Python/blob/37e47dec607cee1d680fe58576b4d3dba97ef2db/Polygon%20Area%20Calculator/shape_calculator.py)
 
 Project Url: <https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator>
 
@@ -102,7 +102,7 @@ The Square class should be able to access the Rectangle class methods but should
 
 Additionally, the set_width and set_height methods on the Square class should set both the width and height.
 
-## 5. fifth Project: Build a [Probability Calculator]()
+## 5. fifth Project: Build a [Probability Calculator](https://github.com/JVictor-CC/Scientific-Computing-with-Python/blob/37e47dec607cee1d680fe58576b4d3dba97ef2db/Probability%20Calculator/prob_calculator.py)
 
 Project Url: <https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator>
 
